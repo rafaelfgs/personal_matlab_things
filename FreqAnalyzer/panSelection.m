@@ -1,0 +1,1 @@
+pan(fig.graph,'xon')
